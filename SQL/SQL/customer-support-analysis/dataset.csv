@@ -1,0 +1,11 @@
+ticket_id,created_date,response_time_hours,category,priority,agent
+1,2024-01-01,2,Billing,High,Ana
+2,2024-01-01,6,Technical,Medium,Carlos
+3,2024-01-02,1,Billing,Low,Ana
+4,2024-01-02,12,Technical,High,Laura
+5,2024-01-03,4,General,Medium,Carlos
+6,2024-01-03,10,Technical,High,Ana
+7,2024-01-04,3,General,Low,Laura
+8,2024-01-04,8,Billing,Medium,Ana
+9,2024-01-05,15,Technical,High,Carlos
+10,2024-01-05,2,General,Low,Laura
