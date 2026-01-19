@@ -1,7 +1,0 @@
-ticket_id,category,priority,agent,response_time_hours
-1,Billing,High,Ana,6
-2,Technical,Medium,Carlos,9
-3,Account,Low,Ana,3
-4,Technical,High,Laura,12
-5,Billing,Medium,Carlos,5
-6,Account,High,Ana,10
