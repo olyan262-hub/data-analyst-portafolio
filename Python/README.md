@@ -1,24 +1,53 @@
-# Support Tickets Analysis with Python
+# 📊 Support Tickets Analysis (Python)
 
-## 🎯 Objective
-Analyze customer support tickets using Python to identify response time issues and operational insights.
+## 📌 Project Overview
+This project analyzes customer support tickets data to identify patterns related to ticket volume, response time, categories, priorities, and agent performance.
 
-## 🛠️ Tools
-- Python
-- Pandas
-- Jupyter Notebook
+The goal of this analysis is to demonstrate practical Python skills for data analysis using real-world support data.
 
-## 📊 Dataset
-Simulated customer support ticket data created for portfolio purposes.
+---
 
-## 📈 Analysis
-- Total number of tickets
-- Average response time
-- Tickets by category
-- Average response time by priority
-- Identification of delayed tickets
+## 🧰 Tools & Technologies
+- Python  
+- Pandas  
+- Matplotlib  
+- Jupyter Notebook  
 
-## 🔍 Key Insights
-- High priority tickets show longer response times.
-- Technical tickets generate most delays.
-- A small number of tickets cause most bottlenecks.
+---
+
+## 📂 Dataset
+The dataset (`tickets.csv`) contains simulated customer support ticket data, including:
+
+- Ticket ID  
+- Category  
+- Priority  
+- Agent  
+- Response time (hours)
+
+The dataset is stored in the `Data/` folder.
+
+---
+
+## 🔍 Analysis Performed
+The analysis includes:
+
+- Total number of tickets  
+- Tickets distribution by category  
+- Average response time overall  
+- Average response time by priority  
+- Tickets handled by each agent  
+- Identification of tickets with high response delay  
+
+---
+
+## 📈 Visualizations
+The project includes visualizations such as:
+
+- Bar chart of tickets by category  
+- Other exploratory plots to support insights  
+
+All visualizations were created using **Matplotlib**.
+
+---
+
+## 🗂 Project Structure
