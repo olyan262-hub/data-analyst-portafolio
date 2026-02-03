@@ -65,7 +65,5 @@ This analysis helps support managers:
 ---
 
 ## ✨ Author
-**Your Name**  
+**Hillary Gonzalez**  
 Aspiring Data Analyst | SQL & Python  
-LinkedIn: (add link)  
-GitHub: (add link)
